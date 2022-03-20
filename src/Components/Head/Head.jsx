@@ -168,7 +168,7 @@ function Head({ currentTheme, themeToggler }) {
             <ParagraphWrapper>
               <p>
                 Hi, its nice to meet you. I am a full stack web developer
-                residing in Mumbai, Maharashtra, India.
+                residing in mughalsarai,UP India.
               </p>
             </ParagraphWrapper>
             <ActionsDiv>
