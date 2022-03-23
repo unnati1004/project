@@ -55,7 +55,7 @@ let projectArray = [
     repoLink: "https://github.com/haldaranup/adidas-clone",
     demoLink: "https://adidas-clone12.netlify.app",
     type: "A collaborative project built by a team of 6 members under 6 days.",
-    blogLink: "https://medium.com/@shashank0194/your-ev-assistant-a1b1910297fe",
+    blogLink: "https://medium.com/@unnatigandhi999/journey-of-building-adidas-clone-website-9622ce83d95a",
     features: [
       "User can switch between prices in product page from high to low and low to high",
       "User can also find the particular product by entering the name in the search bar",
