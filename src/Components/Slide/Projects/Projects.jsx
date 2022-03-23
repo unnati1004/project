@@ -54,7 +54,7 @@ let projectArray = [
     ],
     repoLink: "https://github.com/akhilsdeportfolio/EV-Management",
     demoLink: "https://priceless-mccarthy-a68049.netlify.app/",
-    type: "A collaborative project built by a team of 4 members under 6 days.",
+    type: "A collaborative project built by a team of 6 members under 6 days.",
     blogLink: "https://medium.com/@shashank0194/your-ev-assistant-a1b1910297fe",
     features: [
       "User can switch between prices in product page from high to low and low to high",
@@ -83,8 +83,8 @@ let projectArray = [
       "Express",
       "MongoDB",
     ],
-    repoLink: "https://github.com/patelrohan224/Zoomcar_backend",
-    demoLink: "https://zoomcarcom.herokuapp.com/",
+    repoLink: "https://github.com/unnati1004/firstcry",
+    demoLink: "https://firstcry.vercel.app/",
     type: "A collaborative project built by a team of 6 members under 6 days.",
     blogLink:
       "https://medium.com/@shashank0194/cloning-of-zoomcar-com-website-using-backend-53138db640fb",
