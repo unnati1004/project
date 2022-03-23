@@ -52,8 +52,8 @@ let projectArray = [
       "CSS",
       "JavaScript",
     ],
-    repoLink: "https://github.com/akhilsdeportfolio/EV-Management",
-    demoLink: "https://priceless-mccarthy-a68049.netlify.app/",
+    repoLink: "https://github.com/haldaranup/adidas-clone",
+    demoLink: "https://adidas-clone12.netlify.app",
     type: "A collaborative project built by a team of 6 members under 6 days.",
     blogLink: "https://medium.com/@shashank0194/your-ev-assistant-a1b1910297fe",
     features: [
