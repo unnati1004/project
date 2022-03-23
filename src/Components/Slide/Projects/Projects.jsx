@@ -87,7 +87,7 @@ let projectArray = [
     demoLink: "https://firstcry.vercel.app/",
     type: "A collaborative project built by a team of 6 members under 6 days.",
     blogLink:
-      "https://medium.com/@shashank0194/cloning-of-zoomcar-com-website-using-backend-53138db640fb",
+      "https://medium.com/@ossalunkhe09/cloning-firstcry-website-cf13071992cf",
     features: [
       "Carousel in landing page",
       "User can switch between prices in the product page from high to low and low to high",
