@@ -101,6 +101,40 @@ let projectArray = [
       "Contributed greatly towards the development of the cart page",
       "Collaboratively built the product page",
     ],
+  },
+  {
+    img: "https://user-images.githubusercontent.com/95961486/180657583-37a61718-a2f5-4be8-8671-9418249b80bd.png",
+    title: "Sneaker",
+    description: "A website to purchase all Shoes related products.",
+    techStack: [
+      "HTML",
+      "CSS",
+      "Reactjs",
+      // "NextJs",
+      "Redux",
+      "Redux-thunk",
+      "Node",
+      "Firebase",
+      "Express",
+      "MongoDB",
+    ],
+    repoLink: "https://github.com/unnati1004/Sneaker",
+    demoLink: "https://snekerhead-unnati1004.vercel.app",
+    type: "A collaborative project built by a team of 6 members under 6 days.",
+    features: [
+      "Carousel in landing page",
+      "User can switch between prices in the product page from high to low and low to high",
+      "User can add the product in the shortlist page & also in cart ",
+      "Payment Gateway",
+    ],
+    responsibilities: [
+      "Developed the Whole Project by own",
+      "Developed backend server with products data",
+      "Created an API to fetch the products from backend server",
+      "Sorting Filter Everything Fully backend supported page",
+      "Collaboratively built the product page",
+      "Develop Authentication from Firebase"
+    ],
   }
 ];
 
