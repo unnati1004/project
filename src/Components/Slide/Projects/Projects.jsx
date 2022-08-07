@@ -136,7 +136,7 @@ let projectArray = [
     ],
   },
   {
-    img: "https://user-images.githubusercontent.com/95961486/180657583-37a61718-a2f5-4be8-8671-9418249b80bd.png",
+    img: "https://user-images.githubusercontent.com/95961486/183293146-3017e5ee-aab1-46b2-a217-77e535a48ae6.png",
     title: "Bio_Builder",
     description: "A website to Generate Bio.",
     techStack: [
@@ -153,7 +153,7 @@ let projectArray = [
     repoLink: "https://github.com/unnati1004/Bio_generator",
     demoLink: "https://effortless-medovik-faf878.netlify.app/",
     features: [
-      "Random Generate name",
+      "Random Generate data",
       "User can switch between prices in the product page from high to low and low to high",
       "User can add the product in the shortlist page & also in cart ",
     ],
