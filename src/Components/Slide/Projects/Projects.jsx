@@ -120,7 +120,6 @@ let projectArray = [
     ],
     repoLink: "https://github.com/unnati1004/Sneaker",
     demoLink: "https://snekerhead-unnati1004.vercel.app",
-    type: "A collaborative project built by a team of 6 members under 6 days.",
     features: [
       "Carousel in landing page",
       "User can switch between prices in the product page from high to low and low to high",
@@ -134,6 +133,35 @@ let projectArray = [
       "Sorting Filter Everything Fully backend supported page",
       "Collaboratively built the product page",
       "Develop Authentication from Firebase"
+    ],
+  },
+  {
+    img: "https://user-images.githubusercontent.com/95961486/180657583-37a61718-a2f5-4be8-8671-9418249b80bd.png",
+    title: "Bio_Builder",
+    description: "A website to Generate Bio.",
+    techStack: [
+      "HTML",
+      "CSS",
+      "Reactjs",
+      // "NextJs",
+      "Redux",
+      "Redux-thunk",
+      "Node",
+      "Express",
+      "MongoDB",
+    ],
+    repoLink: "https://github.com/unnati1004/Bio_generator",
+    demoLink: "https://effortless-medovik-faf878.netlify.app/",
+    features: [
+      "Random Generate name",
+      "User can switch between prices in the product page from high to low and low to high",
+      "User can add the product in the shortlist page & also in cart ",
+    ],
+    responsibilities: [
+      "Developed the Whole Project by own",
+      "Created an API to fetch the random data",
+      "User should be able to translate the text into any language he/she wants and it should be visible on the real time on screen. Give a button to translate text.",
+      "User should be able to see the real time output of the input he is entering in the input box"
     ],
   }
 ];
