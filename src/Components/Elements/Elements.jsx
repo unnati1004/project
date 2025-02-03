@@ -1,8 +1,5 @@
 import styled from "styled-components";
 
-//   font-family: 'Lato', sans-serif;
-//   font-family: 'Montserrat', sans-serif;
-//   font-family: 'Rajdhani', sans-serif;
 
 export const MainHeadingWrapper = styled.div`
   text-align: center;

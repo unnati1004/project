@@ -3,7 +3,6 @@ import styled from "styled-components";
 import Navigation from "./Navigation";
 import Lottie from "react-lottie";
 import scroll from "../Animations/scrollDown.json";
-// import omkar from "../Images/shashank.png";
 import unnati from "../Images/unnati_img.png";
 
 import { ParagraphWrapper } from "../Elements/Elements";

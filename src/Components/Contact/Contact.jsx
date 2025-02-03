@@ -1,11 +1,5 @@
 import React from "react";
 import styled from "styled-components";
-// import phone from "../Icons/phone.svg";
-// import gmail from "../Icons/gmail.svg";
-// import github from "../Icons/github.svg";
-// import linkedin from "../Icons/linkedin.svg";
-// import medium from "../Icons/medium.svg";
-
 import { MainHeadingWrapper } from "../Elements/Elements";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
@@ -207,7 +201,6 @@ function Contact({ currentTheme }) {
           <div title="Click here to call">
             <div>
               <a target="_blank" rel="noreferrer" href="tel:+91 6393864979">
-                {/* <i className="fas fa-phone-square-alt"></i> */}
                 <i className="fas fa-phone-alt"></i>
               </a>
             </div>
@@ -224,7 +217,6 @@ function Contact({ currentTheme }) {
                 rel="noreferrer"
                 href="mailto:unnatigandhi999@gmail.com"
               >
-                {/* <i className="fas fa-envelope-square"></i> */}
                 <i className="fas fa-envelope"></i>
               </a>
             </div>
