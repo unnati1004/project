@@ -234,7 +234,7 @@ function Contact({ currentTheme }) {
                 rel="noreferrer"
                 href="mailto:unnatigandhi999@gmail.com"
               >
-                <p>unnatigandhi999@gmail.com</p>
+                <p>unnatigandhi1999@gmail.com</p>
               </a>
             </div>
           </div>
